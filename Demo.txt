@@ -1,0 +1,54 @@
+Aim
+
+The objective of the course is to give basic and advanced knowledge and skills within testing and reviews for large-scale development of systems completely or partly based on software. The course gives practical skills in methods and techniques for software testing. Further, the course aims to train the student in searching and assessing knowledge at the research front in software testing.
+
+Learning outcomes
+
+Knowledge and understanding
+For a passing grade the student must
+
+be able to define basic concepts and principles within software testing
+give an account of the most common techniques for software testing
+be able to describe the relation between the software testing process and other processes in the product lifecycle, as well as organizational issues
+be able to describe the relation between verification and the requirements of a software system in terms of functionality and quality
+be able to report an in-depth area of own choise, and demonstrate theoretical depth or practical application, related to the state-of-art of the area
+Competences and skills
+For a passing grade the student must
+
+be able to motivate the choise of test strategy and organization for a software system
+be able to analyse and create test cases for which box and black box testing
+be able to perform a review
+be able to apply a systematic approach for software testing
+Judgement and approach
+For a passing grade the student must
+
+understand the complexity of the task to test a software system and be aware of the costs and the impact of different testing activities during the development of a software product
+be able to value and synthesize the information given in published scientific articles about software testing
+Contents
+
+Verification and validation activities at different levels in software development
+
+planning, design, execution/reporting, and analysis
+Different types of verification and validation and trade-offs between them
+
+Static – dynamic verification (test – review)
+Interface based – structure based verification (black-box – white-box)
+Exploratory – Scripted
+Manual – automated
+Functional tests – quality tests
+Unit tests – Integration/regression/system tests
+Developer tests – Acceptance tests
+Testing techniques
+
+Equivalence class partitioning
+Boundary value analysis
+Coverage-based testing
+Combinatorial testing
+Test management
+
+Data collection during reviews and testing: reliability, coverage
+Defect management
+Test organizations
+Lectures give a theoretical overview and help for private studies.
+Lab sessions give practical training in applying different test techniques and relate theory to practice through discussions of problems and solutions.
+Projects give practical skills and training in different areas of software testing by literature search, analysis and presentation.
